@@ -1,0 +1,54 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/ALUcontrol.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALUcontrol
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/Branch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Branch
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/EX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX
+INFO: [VRFC 10-2458] undeclared symbol FUNCT3_out, assumed default net type wire [C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/EX.v:67]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/EX_MEM_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_MEM_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/ID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module registers
+INFO: [VRFC 10-311] analyzing module imm_gen
+INFO: [VRFC 10-311] analyzing module ID
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/ID_EX_pipeline.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID_EX_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/IF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2_1
+INFO: [VRFC 10-311] analyzing module mux4_1
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-311] analyzing module instruction_memory
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-311] analyzing module IF
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/IF_ID_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_ID_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/MEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/MEM_WB_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEM_WB_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/RISC_V.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RISC_V
+INFO: [VRFC 10-2458] undeclared symbol ZERO_EX, assumed default net type wire [C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/RISC_V.v:192]
+INFO: [VRFC 10-2458] undeclared symbol MemRead_EX_MEM, assumed default net type wire [C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/RISC_V.v:198]
+INFO: [VRFC 10-2458] undeclared symbol ZERO_FLAG_EX_MEM, assumed default net type wire [C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/RISC_V.v:203]
+INFO: [VRFC 10-2458] undeclared symbol RS2_EX, assumed default net type wire [C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/RISC_V.v:210]
+INFO: [VRFC 10-2458] undeclared symbol RegWrite_MEM, assumed default net type wire [C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/RISC_V.v:213]
+INFO: [VRFC 10-2458] undeclared symbol MemRead_MEM, assumed default net type wire [C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/RISC_V.v:224]
+INFO: [VRFC 10-2458] undeclared symbol MemtoReg_MEM, assumed default net type wire [C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/RISC_V.v:225]
+INFO: [VRFC 10-2458] undeclared symbol MemWrite_MEM, assumed default net type wire [C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/RISC_V.v:226]
+INFO: [VRFC 10-2458] undeclared symbol Branch_MEM, assumed default net type wire [C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/RISC_V.v:228]
+INFO: [VRFC 10-2458] undeclared symbol ZERO_FLAG_MEM, assumed default net type wire [C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/RISC_V.v:229]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/WB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module WB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/control_path.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control_path
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/data_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/forwarding.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module forwarding
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/hazard_detection.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hazard_detection
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sim_1/new/RISC_V_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RISC_V_TB

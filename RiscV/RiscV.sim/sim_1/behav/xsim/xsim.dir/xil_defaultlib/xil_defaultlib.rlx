@@ -1,0 +1,23 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sim_1/new/RISC_V_TB.v,1643101691,verilog,,,,RISC_V_TB,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/ALU.v,1643066320,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/ALUcontrol.v,,ALU,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/ALUcontrol.v,1643189757,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/Branch.v,,ALUcontrol,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/Branch.v,1643188812,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/EX.v,,Branch,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/EX.v,1643188234,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/EX_MEM_reg.v,,EX,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/EX_MEM_reg.v,1643104571,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/ID.v,,EX_MEM_reg,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/ID.v,1643101906,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/ID_EX_pipeline.v,,ID;imm_gen;registers,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/ID_EX_pipeline.v,1643104549,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/IF.v,,ID_EX_reg,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/IF.v,1643032103,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/IF_ID_reg.v,,IF;PC;adder;instruction_memory;mux2_1;mux4_1,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/IF_ID_reg.v,1638007549,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/MEM.v,,IF_ID_reg,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/MEM.v,1643188809,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/MEM_WB_reg.v,,MEM,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/MEM_WB_reg.v,1643104580,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/RISC_V.v,,MEM_WB_reg,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/RISC_V.v,1643189054,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/WB.v,,RISC_V,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/WB.v,1643062128,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/control_path.v,,WB,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/control_path.v,1643065857,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/data_memory.v,,control_path,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/data_memory.v,1642064178,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/forwarding.v,,data_memory,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/forwarding.v,1643051245,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/hazard_detection.v,,forwarding,,,,,,,,
+C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sources_1/new/hazard_detection.v,1642065691,verilog,,C:/Users/Vlad/Desktop/CN2/RiscV/RiscV.srcs/sim_1/new/RISC_V_TB.v,,hazard_detection,,,,,,,,
